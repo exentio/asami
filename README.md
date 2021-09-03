@@ -11,7 +11,7 @@ It purposely lacks MX switches support and a 1x2U config because I couldn't care
 This was just for fun and I won't build it until I stop being poor.  
 
 ### Case options
-While being theoretically Plank-compatible (NOT TESTED), the controller *might* fit, but the battery definitely 
+It WON'T work with a Plank case because the USB is on the opposite side (my error, won't fix), the controller *might* fit, but the battery definitely 
 won't, especially not in the Lo-Pro case. The solutions offered are:
 + A middle case for the Planck EOTW kit
 	+ Requires the EOTW top and bottom plates, M2 screws, and 11mm standoffs
