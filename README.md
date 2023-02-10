@@ -1,3 +1,4 @@
+# THIS KEYBOARD HAS A NON-TRIVIAL AMOUNT OF DESIGN ISSUES AND YOU SHOULDN'T BUILD IT
 # Asami
 Planck-inspired, ALPS-only, bluetooth first keyboard with overkill RGB underglow.
 
